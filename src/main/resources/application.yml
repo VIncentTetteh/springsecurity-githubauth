@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: githuboauth2-demo
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            clientId: <>
+            clientSecret: <>
+# ...
